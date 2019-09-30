@@ -1,2 +1,3 @@
-# TimeEscape
-Diasplay countdown time from real time.
+# Time Escape
+
+Animated Countdown Display.
